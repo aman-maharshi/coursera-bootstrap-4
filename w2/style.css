@@ -49,3 +49,8 @@ address {
     /* font-size: 80%; */
     margin: 0;
 }
+.tab-custom {
+    padding: .5rem;
+    border: 1px solid #ddd;
+    border-top: none;
+}
